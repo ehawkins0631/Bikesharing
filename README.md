@@ -9,6 +9,7 @@ The purpose of this project is to show investors how the bike-sharing model work
 
 Results:
 
+
 Figure 1:
 
 
